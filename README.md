@@ -17,3 +17,9 @@ PGPCA has been published at the International Conference on Learning Representat
     url={https://openreview.net/forum?id=mkDam1xIzW}
 }
 ```
+
+# License
+Copyright (c) 2025 University of Southern California  
+See full notice in [LICENSE.md](LICENSE.md)  
+Han-Lin Hsieh and Maryam M. Shanechi  
+Shanechi Lab, University of Southern California
